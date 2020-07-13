@@ -2,6 +2,9 @@
 # nora-service
 NORA (https://node-red-google-home.herokuapp.com) backend service deployed in Heroku.
 
+
+# cloned from https://github.com/andrei-tatar/nora-service
+
 Deployment instructions: (small guide on how to run nora-service on your own Heroku)
 
 Needed:
